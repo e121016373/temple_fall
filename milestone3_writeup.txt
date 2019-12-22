@@ -1,0 +1,27 @@
+Team 5 "Temple Fall" Milestone3 Write Up
+
+This is our original plan: 
+- Release effort/quality UI
+- Campaign/Arcade style decided on
+- Respective levels/point system implemented with rewards and semi-narrative arc
+- Core platforming physics polished
+- Environmental hazards as they fit into gameplay
+- Test soundtrack
+- Sound effects relatively polished
+
+Our progress:
+We are very proud of ourselves and finished alot of work this time. including missed work from
+last time.
+
+Milestone 3
+- [X] Sound effects     - landing/jumping/music
+- [X] Menu              - title screen
+- [X] Persistant Score  - saving functionality to file
+- [X] Reload from death - can now exit gracefully from program
+
+- [X] Platform Variety  - more platforms w/ different effects (tar + lava)
+- [X] Fireballs         - more hazards with approx collision
+- [X] Falling Spikes    - more hazards with exact collision
+
+- [X] Difficulty Stages - stages gradually increase in difficulty 
+- [X] Collectable Coins - new coins randomly spawn on some platforms.

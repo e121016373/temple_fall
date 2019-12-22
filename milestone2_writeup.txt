@@ -1,0 +1,24 @@
+Team 5 "Temple Fall" Milestone2 Write Up
+
+This is our original plan: 
+- (de)bug free release version
+- level/options menuing if needed
+- User controls, documented economically
+- Unpolished and tunable physics
+- Collision detection and effects; platforming essentials
+- Rising stairs/falling spikes core gameplay mechanic
+- Camera and viewport UI
+- Low effort, thoughtful graphics
+- Concept art revisited and improved sketches
+- Audio system testing
+- Music and sound effect ideas
+- Portability testing
+
+Our progress:
+Unfortunately, we did not get as much done as we had hoped due to scheduling conflicts and
+other family events. In order to compensate for this delay, we will work harder next milestone.
+
+- [X] Walking Animations                - raider now has custom png files and can turn around
+- [X] Scrolling Background              - background loops with help of custom shaders
+- [X] Spike Ceiling                     - better spiked ceilings w/ fixed bugs from last time
+- [X] 'Realistic' Gravity(acceleration) - realistic gravity that accelerates player

@@ -1,0 +1,12 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/SHUAIQI-MARS/Desktop/project/temple_fall
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake:137 (message):
+  Could NOT find OpenGL (missing: OPENGL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindPackageHandleStandardArgs.cmake:378 (_FPHSA_FAILURE_MESSAGE)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.13/Modules/FindOpenGL.cmake:395 (FIND_PACKAGE_HANDLE_STANDARD_ARGS)
+  CMakeLists.txt:89 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/SHUAIQI-MARS/Desktop/project/temple_fall/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/SHUAIQI-MARS/Desktop/project/temple_fall/cmake-build-debug/CMakeFiles/CMakeError.log".

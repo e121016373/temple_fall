@@ -1,0 +1,22 @@
+Team 5 "Temple Fall" Milestone1 Write Up
+
+This is our original plan: 
+
+executable with no features except debugging/testing
+project folder with revision control
+target platforms identified
+gameplay mechanics outlined in terms of implementation
+level/scenario/progression devices or lack thereof
+rough UI sketches/UX ideas
+concept art sketches
+
+Our progress:
+Suprisingly, we have accomplished more features than what we originally expected, and we have accomplished the following:
+
+ - Spike Ceiliing: appears at the top of the screen and ends the game when the player touches it.
+ - Movable Character: can move left and right.
+ - Platform generation: platforms are spawned at a steady rate, and they are constantly rising up.
+ - Physics: the player will fall when it is in the air.
+ - Platform collision: when the player stands on a platform, it will stop falling and the platform will bring the player up.
+ - Scoreboard: as long as the player stays alive, scoreboard will keep track of the score.
+ - Sound and background: we updated the sound and music to suit the game better, we also updated the background to fit into the ancient tomb atmosphere.

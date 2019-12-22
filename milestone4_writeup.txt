@@ -1,0 +1,21 @@
+Team 5 "Temple Fall" Milestone4 Write Up
+
+This is our original plan:
+- Final decision on adding/changing features
+- debug/testing
+- Just make it all work
+
+Our progress:
+We added a lot of features and lighting system in our game for this milestone and fixed bugs from last milestone.
+
+Milestone 4
+- [X] Sound effects         - bouncing fireball/hitting radier/falling spike
+- [X] Death Screen          - with players rank
+- [X] Warning Event         - trigger a warning before the spike or fireball falling
+- [X] More platform         - includes bouncy platform and ghost platform
+- [X] Lighting System       - add light for screen view, platform, coin etc.
+- [X] Character Animation   - raider with torch which make it consistent with the theme and lighting
+- [X] High score            - use external library JSON
+- [X] Bouncing fireball     - random fireballs bounce between side walls
+
+[official last commit done at sat:12:25 - minor changes. please be kind.]
